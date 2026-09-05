@@ -28,7 +28,7 @@ I hope it helps you too 🚀
 Это не полный справочник, а простое и понятное объяснение с примерами, которые помогли мне самому разобраться.
 
 Надеюсь, тебе тоже будет полезно 🚀
-
+https://commons.wikimedia.org/wiki/File:Cplusplus-original.svg
 ---
 
 ## ⚙️ short example
@@ -48,7 +48,6 @@ int main() {
     for (int i = 0; i < v.size(); i++) {
         cout << v[i] << " ";
     }
+    return 0;
 }
 
-
-https://commons.wikimedia.org/wiki/File:Cplusplus-original.svg
