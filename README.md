@@ -28,7 +28,7 @@ I hope it helps you too 🚀
 Это не полный справочник, а простое и понятное объяснение с примерами, которые помогли мне самому разобраться.
 
 Надеюсь, тебе тоже будет полезно 🚀
-https://commons.wikimedia.org/wiki/File:Cplusplus-original.svg
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cplusplus-original.svg" width="80"/>
 ---
 
 ## ⚙️ short example
