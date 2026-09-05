@@ -31,7 +31,7 @@ I hope it helps you too 🚀
 
 ---
 
-## ⚙️ Basic Usage
+## ⚙️ short example
 
 ```cpp
 #include <iostream>
