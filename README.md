@@ -1,6 +1,7 @@
 # -a-small-guide-on-vectors
     During my studies, I compiled a small guide on vector methods in C++. For more details, see the README.
-
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cplusplus-original.svg" width="80"
+style="filter: hue-rotate(200deg) saturate(3);"/>
 # 📘 C++ Vector Guide
 
 ## 🇬🇧 About
@@ -28,9 +29,6 @@ I hope it helps you too 🚀
 Это не полный справочник, а простое и понятное объяснение с примерами, которые помогли мне самому разобраться.
 
 Надеюсь, тебе тоже будет полезно 🚀
----
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cplusplus-original.svg" width="80"
-style="filter: hue-rotate(200deg) saturate(3);"/>
 ---
 
 ## ⚙️ short example
